@@ -9,6 +9,4 @@ print(mi_complejo)
 
 
 mi_numero = input('Ingrese un valor')
-print('el valor ingresado fueasdasdasdasd', mi_numero)
-
-asdasd
+print('el valor ingresado fue', mi_numero)
